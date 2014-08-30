@@ -1,0 +1,5 @@
+name: pipe_to_win
+dependencies:
+  browser: any
+  play_phaser:
+    path: ../play_phaser
